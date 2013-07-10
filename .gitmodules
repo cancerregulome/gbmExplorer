@@ -1,0 +1,3 @@
+[submodule "websvcs"]
+	path = websvcs
+	url = https://github.com/cancerregulome/OAuthWebServices.git
