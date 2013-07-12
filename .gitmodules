@@ -1,3 +1,6 @@
 [submodule "websvcs"]
 	path = websvcs
 	url = https://github.com/cancerregulome/OAuthWebServices.git
+[submodule "webapp"]
+	path = webapp
+	url = http://github.com/cancerregulome/WebAppBase.git
