@@ -2,12 +2,9 @@ http://gbmExplorer.org
 ===========
 
 GBM Explorer Project
-@todo: Fill out description
 
 Acknowledgments
 -----
-@todo: Fill out list of contributors and collaborators
-
 
 Institute for Systems Biology
 ---
@@ -20,3 +17,7 @@ http://CancerRegulome.org
 National Brain Tumor Society
 ---
 http://BrainTumor.org
+
+
+@todo: Fill out description
+@todo: Fill out list of contributors and collaborators
