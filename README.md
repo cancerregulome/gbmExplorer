@@ -1,4 +1,4 @@
-http://gbmExplorer.org
+http://GBMexplorer.org
 ===========
 
 GBM Explorer Project
